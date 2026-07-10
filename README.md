@@ -14,6 +14,13 @@ I build production systems around streaming market data, execution safety, proto
 
 My private production work includes Rust trading infrastructure and Rust/Go blockchain indexing systems. I describe that work without private code or operational details in [two short case studies](https://kfastov.github.io/#case-studies).
 
+## Paid contract work
+
+- One-day diagnostic for Rust trading execution, reconciliation, and hard-to-reproduce failure paths.
+- Two-to-four-day implementation sprint for exchange connectors, Solana/EVM RPC paths, indexer recovery, or data-pipeline correctness.
+
+[Review the deliverables](https://kfastov.github.io/#engagements) or [choose among eight reviewed role-specific resumes](https://kfastov.github.io/#resumes).
+
 ## Core stack
 
 Rust · Go · TypeScript/Node.js · PostgreSQL · FoundationDB · ClickHouse · Redis · gRPC · Protocol Buffers · JSON-RPC · WebSocket · Linux
